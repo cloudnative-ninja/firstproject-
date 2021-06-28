@@ -1,2 +1,2 @@
 thisa is my java application
-my new project:
+my new project:sneha bhosale
